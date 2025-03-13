@@ -1,0 +1,7 @@
+[actor]
+name = "player"
+
+[health]
+max_health = 100.0
+health_restore_speed = 10.0
+critical_health_threshold = 10.0
