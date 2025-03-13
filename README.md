@@ -3,12 +3,11 @@
 Этот мод добавляет авторегенерацию здоровья для игрока в *S.T.A.L.K.E.R. 2: Heart of Chornobyl*. Здоровье восстанавливается со скоростью 10 единиц в секунду (полное восстановление за 10 секунд при максимуме 100). Мод создан KDG.
 
 ## Установка
-1. Скачайте архив мода с [Releases]
+1. Скачайте архив мода с [Releases](https://github.com/KDGOfficial/STALKER2-HealthRegenMod/releases).
 2. Распакуйте содержимое в папку `Stalker2\Content\Paks\~mods\` в каталоге игры.
    - Итоговый путь должен быть: `Stalker2\Content\Paks\~mods\GameLite\GameData\Creatures\actor.cfg`.
 3. Если папки `~mods` нет, создайте её вручную.
 4. Запустите игру и проверьте — здоровье должно восстанавливаться автоматически после получения урона.
-
 ## Настройка
 - Откройте файл `actor.cfg` в текстовом редакторе.
 - Измените значение `health_restore_speed`:
@@ -39,7 +38,7 @@
 This mod adds health regeneration for the player in *S.T.A.L.K.E.R. 2: Heart of Chornobyl*. Health regenerates at a rate of 10 units per second (full recovery in 10 seconds with a maximum of 100). Mod created by KDG.
 
 ## Installation
-1. Download the mod archive from [Releases]
+1. Download the mod archive from [Releases](https://github.com/KDGOfficial/STALKER2-HealthRegenMod/releases).
 2. Extract the contents to the `Stalker2\Content\Paks\~mods\` folder in your game directory.
    - The final path should be: `Stalker2\Content\Paks\~mods\GameLite\GameData\Creatures\actor.cfg`.
 3. If the `~mods` folder doesn’t exist, create it manually.
