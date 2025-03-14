@@ -1,4 +1,4 @@
-# STALKER 2 Health Regeneration Mod
+# STALKER 2 Health Regeneration Mod (beta)
 
 Этот мод добавляет авторегенерацию здоровья для игрока в *S.T.A.L.K.E.R. 2: Heart of Chornobyl*. Здоровье восстанавливается со скоростью 10 единиц в секунду (полное восстановление за 10 секунд при максимуме 100). Мод создан KDG.
 
@@ -33,7 +33,7 @@
 ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ "КАК ЕСТЬ", БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ ГАРАНТИЯМИ ТОВАРНОЙ ПРИГОДНОСТИ, ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЁННОЙ ЦЕЛИ И ОТСУТСТВИЯ НАРУШЕНИЙ. НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ АВТОРЫ ИЛИ ПРАВООБЛАДАТЕЛИ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ЗА ЛЮБЫЕ ПРЕТЕНЗИИ, УЩЕРБ ИЛИ ИНУЮ ОТВЕТСТВЕННОСТЬ, БУДЬ ТО В РАМКАХ ДОГОВОРА, ДЕЛИКТА ИЛИ ИНОГО, ВОЗНИКАЮЩУЮ В СВЯЗИ С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ, ЕГО ИСПОЛЬЗОВАНИЕМ ИЛИ ИНЫМИ ДЕЙСТВИЯМИ С НИМ.
 ---
 
-# STALKER 2 Health Regeneration Mod
+# STALKER 2 Health Regeneration Mod (beta)
 
 This mod adds health regeneration for the player in *S.T.A.L.K.E.R. 2: Heart of Chornobyl*. Health regenerates at a rate of 10 units per second (full recovery in 10 seconds with a maximum of 100). Mod created by KDG.
 
